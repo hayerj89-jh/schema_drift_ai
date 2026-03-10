@@ -1,3 +1,4 @@
+#Used to create initial table and insert data for testing purposes.
 CREATE OR REPLACE TABLE `bigquery-sandbox-296903.dev.cars` (
     brand STRING,
     inventory INT64,
