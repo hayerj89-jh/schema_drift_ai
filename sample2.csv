@@ -1,0 +1,5 @@
+brand,stock_count,total_revenue,data_source
+BMW,6.000,"200000.00",sample2.csv
+Audi,4.000,"120000.00",sample2.csv
+KIA,3.000,"150000.00",sample2.csv
+

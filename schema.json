@@ -1,0 +1,4 @@
+[{"name": "brand", "type": "STRING", "mode": "NULLABLE"},
+{"name": "inventory", "type": "INTEGER", "mode": "NULLABLE"},
+{"name": "total_revenue", "type": "FLOAT", "mode": "NULLABLE"},
+{"name": "data_source", "type": "STRING", "mode": "NULLABLE"}]

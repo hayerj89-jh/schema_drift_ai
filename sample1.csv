@@ -1,0 +1,5 @@
+brand,inventory,total_revenue,data_source
+BMW,6,200000.00,sample1.csv
+Audi,4,120000.00,sample1.csv
+KIA,3,150000.00,sample1.csv
+
